@@ -521,7 +521,7 @@ def main():
     #emails_examinadores_supervisores.extend(emails_comissao)
     emails_examinadores_supervisores.extend(emails_supervisores)
     
-    #criar_eventos(calendar_service, emails_examinadores_supervisores)
+    criar_eventos(calendar_service, emails_examinadores_supervisores)
 
     eventos = findNextEventsByTextInSummary(calendar_service, sigla_area_conhecimento)
 
