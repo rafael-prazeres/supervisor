@@ -1,0 +1,122 @@
+numeroEdital/Ano
+ÁREA DE CONHECIMENTO EXEMPLO
+SIGLA_SEPARADOR_AREA_CONHECIMENTO_EVENTOS_SIMULTANEOS
+4
+3
+examinador1@ufrn.edu.br
+examinador2@gmail.com
+examinador3@hotmail.com
+
+supervisor1@ufrn.edu.br
+supervisor2@ufrn.edu.br
+supervisor3@ufrn.edu.br
+
+concursos1@ufrn.edu.br
+concursos2@ufrn.edu.br
+concursos3@ufrn.edu.br
+
+candidato@gmail.com
+candidato@hotmail
+candidato@yahoo.com.br
+candidato@live.com
+
+03/10/2020 14:50
+03/10/2020 15:30
+Edital numeroEdital/Ano - SIGLA_SEPARADOR_AREA_CONHECIMENTO_EVENTOS_SIMULTANEOS - Sorteio da ordem de apresentação da Didática e Temas do 1º Turno (03 candidatos)
+Sorteio da ordem de apresentação da Didática - ÁREA DE CONHECIMENTO EXEMPLO
+s
+03/10/2020 08:00
+03/10/2020 08:40
+Edital numeroEdital/Ano - SIGLA_SEPARADOR_AREA_CONHECIMENTO_EVENTOS_SIMULTANEOS - Sorteio dos Temas da Didática - 2º Turno (03 candidatos)
+Sorteio dos Temas da Didática - 2º Turno (03 candidatos) - ÁREA DE CONHECIMENTO EXEMPLO
+s
+03/10/2020 14:00
+03/10/2020 14:40
+Edital numeroEdital/Ano - SIGLA_SEPARADOR_AREA_CONHECIMENTO_EVENTOS_SIMULTANEOS - Sorteio dos Temas da Didática - 3º Turno (03 candidatos) 
+Sorteio dos Temas da Didática - 3º Turno (03 candidatos) - ÁREA DE CONHECIMENTO EXEMPLO
+s
+03/10/2020 15:00
+03/10/2020 15:40
+Edital numeroEdital/Ano - SIGLA_SEPARADOR_AREA_CONHECIMENTO_EVENTOS_SIMULTANEOS - Sorteio dos Temas da Didática - 4º Turno (03 candidatos)
+Sorteio dos Temas da Didática - 4º Turno (03 candidatos) - ÁREA DE CONHECIMENTO EXEMPLO
+s
+03/10/2020 15:00
+03/10/2020 19:00
+Edital numeroEdital/Ano - SIGLA_SEPARADOR_AREA_CONHECIMENTO_EVENTOS_SIMULTANEOS - Sala de Espera - Prova Didática - 1º Turno (03 candidatos)
+Prova Didática - 1º Turno (03 candidatos) - ÁREA DE CONHECIMENTO EXEMPLO
+s
+03/10/2020 15:00
+03/10/2020 19:00
+Edital numeroEdital/Ano - SIGLA_SEPARADOR_AREA_CONHECIMENTO_EVENTOS_SIMULTANEOS - Prova Didática - 1º Turno (candidato 1)
+Prova Didática - 1º Turno (03 candidatos) - ÁREA DE CONHECIMENTO EXEMPLO
+s
+03/10/2020 15:00
+03/10/2020 19:00
+Edital numeroEdital/Ano - SIGLA_SEPARADOR_AREA_CONHECIMENTO_EVENTOS_SIMULTANEOS - Prova Didática - 1º Turno (candidato 2)
+Prova Didática - 1º Turno (03 candidatos) - ÁREA DE CONHECIMENTO EXEMPLO
+s
+03/10/2020 15:00
+03/10/2020 19:00
+Edital numeroEdital/Ano - SIGLA_SEPARADOR_AREA_CONHECIMENTO_EVENTOS_SIMULTANEOS - Prova Didática - 1º Turno (candidato 3)
+Prova Didática - 1º Turno (03 candidatos) - ÁREA DE CONHECIMENTO EXEMPLO
+s
+03/10/2020 08:00
+03/10/2020 12:00
+Edital numeroEdital/Ano - SIGLA_SEPARADOR_AREA_CONHECIMENTO_EVENTOS_SIMULTANEOS - Sala de Espera - Prova Didática - 2º Turno (03 candidatos)
+Prova Didática - 2º Turno (03 candidatos) - ÁREA DE CONHECIMENTO EXEMPLO
+s
+03/10/2020 08:00
+03/10/2020 12:00
+Edital numeroEdital/Ano - SIGLA_SEPARADOR_AREA_CONHECIMENTO_EVENTOS_SIMULTANEOS - Prova Didática - 2º Turno (candidato 1)
+Prova Didática - 2º Turno (03 candidatos) - ÁREA DE CONHECIMENTO EXEMPLO
+s
+03/10/2020 08:00
+03/10/2020 12:00
+Edital numeroEdital/Ano - SIGLA_SEPARADOR_AREA_CONHECIMENTO_EVENTOS_SIMULTANEOS - Prova Didática - 2º Turno (candidato 2)
+Prova Didática - 2º Turno (03 candidatos) - ÁREA DE CONHECIMENTO EXEMPLO
+s
+03/10/2020 08:00
+03/10/2020 12:00
+Edital numeroEdital/Ano - SIGLA_SEPARADOR_AREA_CONHECIMENTO_EVENTOS_SIMULTANEOS - Prova Didática - 2º Turno (candidato 3)
+Prova Didática - 2º Turno (03 candidatos) - ÁREA DE CONHECIMENTO EXEMPLO
+s
+03/10/2020 14:00
+03/10/2020 18:00
+Edital numeroEdital/Ano - SIGLA_SEPARADOR_AREA_CONHECIMENTO_EVENTOS_SIMULTANEOS - Sala de Espera - Prova Didática - 3º Turno (03 candidatos)
+Prova Didática - 3º Turno (03 candidatos) - ÁREA DE CONHECIMENTO EXEMPLO
+s
+03/10/2020 14:00
+03/10/2020 18:00
+Edital numeroEdital/Ano - SIGLA_SEPARADOR_AREA_CONHECIMENTO_EVENTOS_SIMULTANEOS - Prova Didática - 3º Turno (candidato 1)
+Prova Didática - 3º Turno (03 candidatos) - ÁREA DE CONHECIMENTO EXEMPLO
+s
+03/10/2020 14:00
+03/10/2020 18:00
+Edital numeroEdital/Ano - SIGLA_SEPARADOR_AREA_CONHECIMENTO_EVENTOS_SIMULTANEOS - Prova Didática - 3º Turno (candidato 2)
+Prova Didática - 3º Turno (03 candidatos) - ÁREA DE CONHECIMENTO EXEMPLO
+s
+03/10/2020 14:00
+03/10/2020 18:00
+Edital numeroEdital/Ano - SIGLA_SEPARADOR_AREA_CONHECIMENTO_EVENTOS_SIMULTANEOS - Prova Didática - 3º Turno (candidato 3)
+Prova Didática - 3º Turno (03 candidatos) - ÁREA DE CONHECIMENTO EXEMPLO
+s
+03/10/2020 15:00
+03/10/2020 19:00
+Edital numeroEdital/Ano - SIGLA_SEPARADOR_AREA_CONHECIMENTO_EVENTOS_SIMULTANEOS - Sala de Espera - Prova Didática - 4º Turno (03 candidatos)
+Prova Didática - 4º Turno (03 candidatos) - ÁREA DE CONHECIMENTO EXEMPLO
+s
+03/10/2020 15:00
+03/10/2020 19:00
+Edital numeroEdital/Ano - SIGLA_SEPARADOR_AREA_CONHECIMENTO_EVENTOS_SIMULTANEOS - Prova Didática - 4º Turno (candidato 1)
+Prova Didática - 4º Turno (03 candidatos) - ÁREA DE CONHECIMENTO EXEMPLO
+s
+03/10/2020 15:00
+03/10/2020 19:00
+Edital numeroEdital/Ano - SIGLA_SEPARADOR_AREA_CONHECIMENTO_EVENTOS_SIMULTANEOS - Prova Didática - 4º Turno (candidato 2)
+Prova Didática - 4º Turno (03 candidatos) - ÁREA DE CONHECIMENTO EXEMPLO
+s
+03/10/2020 15:00
+03/10/2020 19:00
+Edital numeroEdital/Ano - SIGLA_SEPARADOR_AREA_CONHECIMENTO_EVENTOS_SIMULTANEOS - Prova Didática - 4º Turno (candidato 3)
+Prova Didática - 4º Turno (03 candidatos) - ÁREA DE CONHECIMENTO EXEMPLO
+n
